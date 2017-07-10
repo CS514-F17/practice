@@ -20,7 +20,7 @@ The goal of this set of practice problems is to help you prepare for CS 514.
 
 By the second week of the semester you will need to have mastered all of the concepts covered by these practice problems. This includes the Java syntax, the submission procedure, and the problem solving required for the more complex solutions. If you find yourself struggling with these problems then you should consider completing an online Java course or carefully going through an introductory Java textbook *and* completing the programming exercises required.
 
-#### You should be able to complete all of these problems with little to no help from the Internet.
+:warning: **You should be able to complete all of these problems with little to no help from the Internet.**
 
 Though there may be partial or complete solutions to some of these questions on various sites like StackOverflow, it is expected that you solve these problems *without* using the Internet as a resource. If you are looking up solutions on the Internet then you are not yet ready for CS 514. 
 
